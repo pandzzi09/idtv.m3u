@@ -13,7 +13,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-id="TVRI Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9xH4_hAgXLNS0Tsp3i6H-iw5747TRV832jE4kzbBhDQ&s=10" group-title="INDONESIA",TVRI SPORT
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 tvg-id="Rcti.id@SD"
+#EXTINF:-1 ,Rcti.id@SD
 https://allcutv.rctiplus.id/rcti2023.m3u8
 
 #EXTINF:-1,INDOSIAR
